@@ -87,9 +87,9 @@ public class Worker : BackgroundService
 
                             var subject = $"[{plcCfg.Name}] {tag.Name} ACTIVE";
                             var body =
-$@"{DateTime.Now:yyyy-MM-dd HH:mm:ss} — Alarm '{tag.Name}' became ACTIVE
-Station: {plcCfg.Name}  IP: {plcCfg.Ip}
-Address: {addr}";
+                            $@"{DateTime.Now:yyyy-MM-dd HH:mm:ss} — Alarm '{tag.Name}' became ACTIVE
+                            Station: {plcCfg.Name}"; // IP: {plcCfg.Ip}
+                            //Address: {addr}";
                             await SendEmailAsync(emailCfg, recipients, subject, body);
                         }
 
