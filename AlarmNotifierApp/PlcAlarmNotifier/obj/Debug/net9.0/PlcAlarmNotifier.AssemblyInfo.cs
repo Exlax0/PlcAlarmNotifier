@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlcAlarmNotifier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+132a52c92ef82c83c2d0c68d0da79446a89c91f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+181be4a658ac94471a4e27262b52c3c677b8e65f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlcAlarmNotifier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlcAlarmNotifier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
