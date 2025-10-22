@@ -1,0 +1,4 @@
+E:\WORKS ALL\Csharp\AlarmEmailNotifier\PlcAlarmNotifier\AlarmNotifierApp\PlcAlarmNotifier\bin\Release\net9.0\win-x64\publish\appsettings.Development.json
+E:\WORKS ALL\Csharp\AlarmEmailNotifier\PlcAlarmNotifier\AlarmNotifierApp\PlcAlarmNotifier\bin\Release\net9.0\win-x64\publish\appsettings.json
+E:\WORKS ALL\Csharp\AlarmEmailNotifier\PlcAlarmNotifier\AlarmNotifierApp\PlcAlarmNotifier\bin\Release\net9.0\win-x64\publish\PlcAlarmNotifier.pdb
+E:\WORKS ALL\Csharp\AlarmEmailNotifier\PlcAlarmNotifier\AlarmNotifierApp\PlcAlarmNotifier\bin\Release\net9.0\win-x64\publish\PlcAlarmNotifier.exe
